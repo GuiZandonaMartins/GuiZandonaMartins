@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @GuiZandonaMartins
-- 👀 I’m interested in Games and Music 
-- 🌱 I’m currently learning Azure Cloud 
-- ⚡ Fun fact: HomeOffice :)
+Guilherme Zandoná Martins 
 
-<!---
-GuiZandonaMartins/GuiZandonaMartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📖 Estudando Azure Cloud e serviços relacionados a infraestrutura de empresas.
+
+👀 Interassado por Jogos e Música. 
+
+📲 Me encontre !!
+
+📷 Instagram: https://www.instagram.com/gui_zandoona/?next=%2Firmkrgl%2F
+
+💼 Linkedin: www.linkedin.com/in/guilherme-zandona-martins
